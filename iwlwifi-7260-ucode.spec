@@ -5,7 +5,7 @@ Release:	1
 Source0:	http://www.intellinuxwireless.org/iwlwifi/downloads/%{name}-%{version}.tgz
 License:	Proprietary
 Group:		System/Kernel and hardware
-Url:		http://intellinuxwireless.org/
+Url:		https://intellinuxwireless.org/
 BuildArch: noarch
 
 %description
